@@ -1,0 +1,44 @@
+#element {
+    background: #FEFDFC;
+box-shadow: 2px 1px 4px rgba(10, 17, 40, 0.5);
+border-radius: 20px;
+width: 259px;
+height: 337px;
+margin-bottom:10px;
+
+
+}
+
+#vapeimg {
+    margin-left:28px;
+    margin-top:20px;
+}
+
+#pname, #description {
+    max-width: 200px;
+    text-align: center;
+    margin-left: 28px;
+    margin-top: 10px;
+}
+
+#price {
+    background: black;
+    color: white;
+    border-radius: 10px 0px 0px 0px;
+    width: 87px;
+    height: 20px;
+    position: relative;
+    top: -283px;
+    left: 28px;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+#pname {
+    font-size: 24px;
+}
+
+#description {
+    font-size: 14px;
+}

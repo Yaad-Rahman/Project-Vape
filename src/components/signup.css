@@ -1,0 +1,55 @@
+#intro {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #000000;
+
+}
+
+#form {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+margin-top: 50px;
+padding: 10px;
+}
+
+#form input {
+    background: #FEFDFC;
+border: 1px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 538px;
+height: 42px;
+font-size: 20px;
+padding-left: 20px;
+}
+
+#signbtn, #cancelbtn {
+    background: #1282A2;
+border-radius: 10px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #FFFFFF;
+padding: 10px;
+float: right;
+}
+
+#signbtn {
+    margin-right: 20px;
+}
+
+#signup {
+    cursor: pointer;
+}

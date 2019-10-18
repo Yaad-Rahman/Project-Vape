@@ -1,0 +1,7 @@
+#slider {
+    width: 100vw;
+    height: 400px;
+    position: relative;
+    top: 40px;
+    z-index: -2;
+}

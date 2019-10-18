@@ -1,0 +1,44 @@
+.scroll {
+    width: 80vw;
+    margin-top:16px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#slihead {
+    margin-top: 85px;
+    margin-left: 35px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+#details {
+    background: #1282A2;
+    width: 150px;
+    height: 29px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+padding-top: 5px;
+text-align: center;
+color: #FFFFFF;
+visibility: hidden;
+opacity: .6;
+
+}
+
+#imgg:hover #details {
+    visibility: visible;
+}
+
+#details:hover {
+    opacity: 1;
+}

@@ -1,0 +1,51 @@
+#pbtn {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    color: white;
+    background-color: #1282A2;
+    opacity: .5;
+    position: relative;
+    float:left;
+    top:-200px;
+    left: 60px;
+}
+
+#pbtn:hover {
+    opacity: 1;
+}
+
+#nbtn {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    color: white;
+    background-color: #1282A2;
+    opacity: .5;
+    position: relative;
+    float: right;
+    top:-200px;
+    right: 60px;
+}
+
+#nbtn:hover {
+    opacity: 1;
+}
+
+#carousel {
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading {
+    margin-bottom: 33px;
+    margin-left: 35px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
