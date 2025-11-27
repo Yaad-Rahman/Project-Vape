@@ -13,7 +13,7 @@
     "react-image-scroller": "^0.3.0",
     "react-modal": "^3.10.1",
     "react-multi-carousel": "^2.2.10",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-slick": "^0.25.2",
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.4.0"
